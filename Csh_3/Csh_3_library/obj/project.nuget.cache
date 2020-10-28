@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+QnlBdzFhMS6J1mh4t6baK3Vt+4ykcw9cHrk69055N3JQHWS8ABqOMKqvtRMiTwL8S4qhDrgkc/qdonY6VxGsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gorbushin_v_a\\source\\repos\\Csh_3\\Csh_3_library\\Csh_3_library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gorbushin_v_a\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\gorbushin_v_a\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\gorbushin_v_a\source\repos\Csh_2\Csh_2\bin\Debug\netcoreapp3.1\Csh_2.exe
+C:\Users\gorbushin_v_a\source\repos\Csh_2\Csh_2\bin\Debug\netcoreapp3.1\Csh_2.deps.json
+C:\Users\gorbushin_v_a\source\repos\Csh_2\Csh_2\bin\Debug\netcoreapp3.1\Csh_2.runtimeconfig.json
+C:\Users\gorbushin_v_a\source\repos\Csh_2\Csh_2\bin\Debug\netcoreapp3.1\Csh_2.runtimeconfig.dev.json
+C:\Users\gorbushin_v_a\source\repos\Csh_2\Csh_2\bin\Debug\netcoreapp3.1\Csh_2.dll
+C:\Users\gorbushin_v_a\source\repos\Csh_2\Csh_2\bin\Debug\netcoreapp3.1\Csh_2.pdb
+C:\Users\gorbushin_v_a\source\repos\Csh_2\Csh_2\obj\Debug\netcoreapp3.1\Csh_2.csprojAssemblyReference.cache
+C:\Users\gorbushin_v_a\source\repos\Csh_2\Csh_2\obj\Debug\netcoreapp3.1\Csh_2.AssemblyInfoInputs.cache
+C:\Users\gorbushin_v_a\source\repos\Csh_2\Csh_2\obj\Debug\netcoreapp3.1\Csh_2.AssemblyInfo.cs
+C:\Users\gorbushin_v_a\source\repos\Csh_2\Csh_2\obj\Debug\netcoreapp3.1\Csh_2.csproj.CoreCompileInputs.cache
+C:\Users\gorbushin_v_a\source\repos\Csh_2\Csh_2\obj\Debug\netcoreapp3.1\Csh_2.dll
+C:\Users\gorbushin_v_a\source\repos\Csh_2\Csh_2\obj\Debug\netcoreapp3.1\Csh_2.pdb
+C:\Users\gorbushin_v_a\source\repos\Csh_2\Csh_2\obj\Debug\netcoreapp3.1\Csh_2.genruntimeconfig.cache
+C:\Users\gorbushin_v_a\source\repos\Csh_2\Csh_2\bin\Debug\netcoreapp3.1\Csh_2_library.dll
+C:\Users\gorbushin_v_a\source\repos\Csh_2\Csh_2\bin\Debug\netcoreapp3.1\Csh_2_library.pdb
+C:\Users\gorbushin_v_a\source\repos\Csh_2\Csh_2\obj\Debug\netcoreapp3.1\Csh_2.csproj.CopyComplete

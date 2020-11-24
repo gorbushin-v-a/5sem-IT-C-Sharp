@@ -1,0 +1,175 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Windows7APICodePack-Core/1.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/Microsoft.WindowsAPICodePack.dll": {}
+        },
+        "runtime": {
+          "lib/Microsoft.WindowsAPICodePack.dll": {}
+        }
+      },
+      "Windows7APICodePack-Shell/1.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Windows7APICodePack-Core": "1.1.0"
+        },
+        "compile": {
+          "lib/Microsoft.WindowsAPICodePack.Shell.dll": {}
+        },
+        "runtime": {
+          "lib/Microsoft.WindowsAPICodePack.Shell.dll": {}
+        }
+      },
+      "WindowsAPICodePack-Core/1.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/Microsoft.WindowsAPICodePack.dll": {}
+        },
+        "runtime": {
+          "lib/Microsoft.WindowsAPICodePack.dll": {}
+        }
+      },
+      "Csh_7_library/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Csh_7_library.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Csh_7_library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Windows7APICodePack-Core/1.1.0": {
+      "sha512": "T0cccZ6PQcauKk+rU8zSSIQuDjKPhAsyu8u0MDaa3hggA00tk/CcJ6ukzzKaXrXyHYzFbDAWdUdlLE4NSUdWnA==",
+      "type": "package",
+      "path": "windows7apicodepack-core/1.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/Microsoft.WindowsAPICodePack.dll",
+        "lib/Microsoft.WindowsAPICodePack.pdb",
+        "windows7apicodepack-core.1.1.0.nupkg.sha512",
+        "windows7apicodepack-core.nuspec"
+      ]
+    },
+    "Windows7APICodePack-Shell/1.1.0": {
+      "sha512": "IVlZAP3MPktm/aNl0gptCAnfm0IblGvWu0J7b8zu7Di9Lc9Ep0ABu8757X1n5GACk/UIAg+tUCQGYQ2hWqWV7A==",
+      "type": "package",
+      "path": "windows7apicodepack-shell/1.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/Microsoft.WindowsAPICodePack.Shell.dll",
+        "lib/Microsoft.WindowsAPICodePack.Shell.pdb",
+        "windows7apicodepack-shell.1.1.0.nupkg.sha512",
+        "windows7apicodepack-shell.nuspec"
+      ]
+    },
+    "WindowsAPICodePack-Core/1.1.2": {
+      "sha512": "tGEkicg61OvHHuFyD4Vu8H4R0q5H1dlpN6fqjdYG+MGIp16znEVo/I+LhMTx3nKpM46reCcE6oC8fJqVJix2Bg==",
+      "type": "package",
+      "path": "windowsapicodepack-core/1.1.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/Microsoft.WindowsAPICodePack.dll",
+        "lib/Microsoft.WindowsAPICodePack.xml",
+        "windowsapicodepack-core.1.1.2.nupkg.sha512",
+        "windowsapicodepack-core.nuspec"
+      ]
+    },
+    "Csh_7_library/1.0.0": {
+      "type": "project",
+      "path": "../Csh_7_library/Csh_7_library.csproj",
+      "msbuildProject": "../Csh_7_library/Csh_7_library.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Csh_7_library >= 1.0.0",
+      "Windows7APICodePack-Shell >= 1.1.0",
+      "WindowsAPICodePack-Core >= 1.1.2"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\gorbushin_v_a\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\gorbushin_v_a\\source\\repos\\Csh_7\\Csh_7\\Csh_7.csproj",
+      "projectName": "Csh_7",
+      "projectPath": "C:\\Users\\gorbushin_v_a\\source\\repos\\Csh_7\\Csh_7\\Csh_7.csproj",
+      "packagesPath": "C:\\Users\\gorbushin_v_a\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gorbushin_v_a\\source\\repos\\Csh_7\\Csh_7\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\gorbushin_v_a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\gorbushin_v_a\\source\\repos\\Csh_7\\Csh_7_library\\Csh_7_library.csproj": {
+              "projectPath": "C:\\Users\\gorbushin_v_a\\source\\repos\\Csh_7\\Csh_7_library\\Csh_7_library.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "noWarn": [
+          "NU1701"
+        ],
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "Windows7APICodePack-Shell": {
+            "target": "Package",
+            "version": "[1.1.0, )"
+          },
+          "WindowsAPICodePack-Core": {
+            "target": "Package",
+            "version": "[1.1.2, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

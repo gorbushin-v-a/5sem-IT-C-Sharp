@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Csh_6/1.0.0": {
+        "dependencies": {
+          "Csh_6_library": "1.0.0"
+        },
+        "runtime": {
+          "Csh_6.dll": {}
+        }
+      },
+      "Csh_6_library/1.0.0": {
+        "runtime": {
+          "Csh_6_library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Csh_6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Csh_6_library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

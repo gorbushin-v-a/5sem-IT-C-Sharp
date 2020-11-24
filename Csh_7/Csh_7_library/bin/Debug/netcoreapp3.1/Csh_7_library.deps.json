@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Csh_7_library/1.0.0": {
+        "runtime": {
+          "Csh_7_library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Csh_7_library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

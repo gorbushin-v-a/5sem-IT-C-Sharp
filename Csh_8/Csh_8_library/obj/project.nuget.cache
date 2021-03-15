@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "4J0QqbSm60zjEC+6n+wv8gLJjVStG3+XOiJ1YuPGPXEDqOBJnXmlQ1Ra55KefC6w16AwTEHtSee1fUfa+eIJnw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gorbushin_v_a\\source\\repos\\Csh_8\\Csh_8_library\\Csh_8_library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gorbushin_v_a\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\gorbushin_v_a\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\gorbushin_v_a\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\gorbushin_v_a\\.nuget\\packages\\windows7apicodepack-core\\1.1.0\\windows7apicodepack-core.1.1.0.nupkg.sha512",
+    "C:\\Users\\gorbushin_v_a\\.nuget\\packages\\windows7apicodepack-shell\\1.1.0\\windows7apicodepack-shell.1.1.0.nupkg.sha512",
+    "C:\\Users\\gorbushin_v_a\\.nuget\\packages\\windowsapicodepack-core\\1.1.2\\windowsapicodepack-core.1.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

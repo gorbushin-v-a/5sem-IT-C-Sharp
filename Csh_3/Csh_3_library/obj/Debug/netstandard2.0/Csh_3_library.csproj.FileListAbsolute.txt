@@ -1,9 +1,0 @@
-C:\Users\gorbushin_v_a\source\repos\Csh_3\Csh_3_library\bin\Debug\netstandard2.0\Csh_3_library.deps.json
-C:\Users\gorbushin_v_a\source\repos\Csh_3\Csh_3_library\bin\Debug\netstandard2.0\Csh_3_library.dll
-C:\Users\gorbushin_v_a\source\repos\Csh_3\Csh_3_library\bin\Debug\netstandard2.0\Csh_3_library.pdb
-C:\Users\gorbushin_v_a\source\repos\Csh_3\Csh_3_library\obj\Debug\netstandard2.0\Csh_3_library.csprojAssemblyReference.cache
-C:\Users\gorbushin_v_a\source\repos\Csh_3\Csh_3_library\obj\Debug\netstandard2.0\Csh_3_library.AssemblyInfoInputs.cache
-C:\Users\gorbushin_v_a\source\repos\Csh_3\Csh_3_library\obj\Debug\netstandard2.0\Csh_3_library.AssemblyInfo.cs
-C:\Users\gorbushin_v_a\source\repos\Csh_3\Csh_3_library\obj\Debug\netstandard2.0\Csh_3_library.csproj.CoreCompileInputs.cache
-C:\Users\gorbushin_v_a\source\repos\Csh_3\Csh_3_library\obj\Debug\netstandard2.0\Csh_3_library.dll
-C:\Users\gorbushin_v_a\source\repos\Csh_3\Csh_3_library\obj\Debug\netstandard2.0\Csh_3_library.pdb

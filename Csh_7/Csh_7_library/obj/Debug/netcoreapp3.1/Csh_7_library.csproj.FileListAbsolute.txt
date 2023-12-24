@@ -1,9 +1,0 @@
-C:\Users\gorbushin_v_a\source\repos\Csh_7\Csh_7_library\bin\Debug\netcoreapp3.1\Csh_7_library.deps.json
-C:\Users\gorbushin_v_a\source\repos\Csh_7\Csh_7_library\bin\Debug\netcoreapp3.1\Csh_7_library.dll
-C:\Users\gorbushin_v_a\source\repos\Csh_7\Csh_7_library\bin\Debug\netcoreapp3.1\Csh_7_library.pdb
-C:\Users\gorbushin_v_a\source\repos\Csh_7\Csh_7_library\obj\Debug\netcoreapp3.1\Csh_7_library.csprojAssemblyReference.cache
-C:\Users\gorbushin_v_a\source\repos\Csh_7\Csh_7_library\obj\Debug\netcoreapp3.1\Csh_7_library.AssemblyInfoInputs.cache
-C:\Users\gorbushin_v_a\source\repos\Csh_7\Csh_7_library\obj\Debug\netcoreapp3.1\Csh_7_library.AssemblyInfo.cs
-C:\Users\gorbushin_v_a\source\repos\Csh_7\Csh_7_library\obj\Debug\netcoreapp3.1\Csh_7_library.csproj.CoreCompileInputs.cache
-C:\Users\gorbushin_v_a\source\repos\Csh_7\Csh_7_library\obj\Debug\netcoreapp3.1\Csh_7_library.dll
-C:\Users\gorbushin_v_a\source\repos\Csh_7\Csh_7_library\obj\Debug\netcoreapp3.1\Csh_7_library.pdb
